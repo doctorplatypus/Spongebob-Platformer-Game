@@ -31,11 +31,11 @@ This project demonstrates core game development concepts such as player movement
 
 Add screenshots or gameplay GIFs here to showcase movement, levels, and visuals.
 
-```md
+
 <img width="359" height="432" alt="image" src="https://github.com/user-attachments/assets/feee9f1e-cf59-47c3-a6cb-da343ce744e9" />
 <img width="747" height="547" alt="image" src="https://github.com/user-attachments/assets/595356ff-6c72-480e-a2fc-73ae32377c9f" />
 
-```
+
 
 ## Installation
 
