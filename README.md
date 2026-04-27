@@ -29,7 +29,6 @@ This project demonstrates core game development concepts such as player movement
 
 ## Demo / Screenshots
 
-Add screenshots or gameplay GIFs here to showcase movement, levels, and visuals.
 
 
 <img width="359" height="432" alt="image" src="https://github.com/user-attachments/assets/feee9f1e-cf59-47c3-a6cb-da343ce744e9" />
